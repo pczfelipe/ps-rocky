@@ -8,3 +8,5 @@ Descrição Campos:
  - C5: Categoria do Produto
 
 Consulta a ser realizada: Selecione a quantidade e receita total vendida por categoria. Ordene de maneira decrescente a receita e crescente a categoria.
+
+Realizar o teste nesta plataforma: https://sqliteonline.com/
